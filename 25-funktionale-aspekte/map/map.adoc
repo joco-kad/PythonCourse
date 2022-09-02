@@ -1,0 +1,11 @@
+= Übung 16
+
+== Lösungen
+
+[source,python]
+----
+list(map(lambda x: x.capitalize(), ['hund', 'katze', 'hund']))
+set(map(lambda x: x.capitalize(), ['hund', 'katze', 'hund']))
+[(lambda i: f'{i} {len(i)}')(x)  for x in ['hund', 'katze', 'maus']]
+----
+

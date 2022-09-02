@@ -1,0 +1,113 @@
+Müller-Lüdenscheid: “Ich möchte nicht unhöflich erscheinen, aber ich wäre jetzt ganz gerne allein.”
+Kloebner: “Wer sind Sie denn überhaupt?”
+Müller-Lüdenscheid: “Mein Name ist Müller-Lüdenscheid.”
+Kloebner: “Kloebner, Doktor Kloebner.”
+Müller-Lüdenscheid: “Angenehm.”
+Kloebner: “Angenehm.”
+Müller-Lüdenscheid: “Können Sir mir sagen, warum Sie in meiner Badewanne sitzen?”
+Kloebner: “Ich kam vom Pingpong-Keller und hatte mich in der Zimmernummer geirrt. Das Hotel ist etwas unübersichtlich.”
+Müller-Lüdenscheid: “Aber jetzt wissen Sie, dass Sie in einer Fremdwanne sitzen und baden trotzdem weiter.”
+Kloebner: “Von Baden kann nicht die Rede sein, es ist ja kein Wasser in der Wanne.”
+Müller-Lüdenscheid: “Als ich das Bad betrat, saßen Sie im warmen Wasser.”
+Kloebner: “Aber Sie haben es ja wieder abgelassen.”
+Müller-Lüdenscheid: “Weil Sie es eingelassen haben, Herr Doktor Kloebner. In meiner Wanne pflege ich das Badewasser selbst einzulassen.”
+Kloebner: “Na, dann lassen Sie’s doch jetzt ein.”
+Müller-Lüdenscheid: “Mein Badewasser lasse ich mir ein, wenn ich es für richtig halte.”
+Kloebner: “Gewiss, natürlich.”
+[Verlegenes Pfeifen…]
+Kloebner: “Es sitzt sich recht kühl, einfach so in der Wanne.”
+Müller-Lüdenscheid: “Ich sitze gern mal ohne Wasser in der Wanne.”
+Kloebner: “Ach.”
+Müller-Lüdenscheid: “Was heißt ‘Ach’?”
+Kloebner: “Ach. Sie sagten, dass Sie gerne ohne Wasser in der Wanne sitzen und ich meinte ‘ach’.”
+Müller-Lüdenscheid: ‘Aha.’
+Kloebner: “Ich hätte auch ‘Aha’ sagen können, aber ich wollte meiner Verwunderung darüber Ausdruck geben, dass Sie es vorziehen, ohne Wasser in der Wanne zu sitzen.”
+Müller-Lüdenscheid: “Herr Doktor Kloebner, ich leite eines der bedeutendsten Unternehmen der Schwerindustrie und bin Ihnen in meiner Badewanne keine Rechenschaft schuldig.”
+Kloebner: “Nein, nein.”
+Müller-Lüdenscheid: “Ich entscheide persönlich, ob ich mit Wasser bade oder ohne.”
+Kloebner: “Ja, ja.”
+Müller-Lüdenscheid: “Im übrigen sagte ich nur…”
+Kloebner: “Herr Müller-Lüdenscheidt…”
+Müller-Lüdenscheid: “Bitte lassen Sie mich ausreden. Ich sagte, dass ich, wenn es die Situation erfordert, durchaus in der Lage wäre, auch mal ein Wannenbad ohne Wasser zu nehmen.”
+Kloebner: “Ja, ja.”
+Müller-Lüdenscheid: “Und die Entscheidung darüber, ob ich mein Wannenbad mit oder ohne Wasser zu nehmen habe, lasse ich mir von niemandem aufdrängen.”
+Kloebner: “Nein, nein.”
+Müller-Lüdenscheid: “Auch von Ihnen nicht, Herr Doktor Kloebner.”
+Kloebner: “Herr Müller-Lüdenscheidt, es wäre ja immerhin denkbar, dass es gewisse Argumente gäbe, die dafür sprächen, das Wasser jetzt einlaufen zu lassen.”
+Müller-Lüdenscheid: “Wie wollen Sie das beurteilen?”
+Kloebner: “Mein Gott, ich bade ja auch nicht zum ersten Mal.”
+Müller-Lüdenscheid: “So?”
+Kloebner: “Und nach meiner Erfahrung ist eben ein warmes Wannenbad mit Wasser zweckmäßiger als ohne.”
+Müller-Lüdenscheid: “Das ist Ihre ganz persönliche Meinung, Herr Doktor Kloebner. Aber man darf ja wohl noch anderer Ansicht sein.”
+Kloebner: “Ach, was.”
+Müller-Lüdenscheid: “Sie können Sich in meiner Wanne eine eigene Meinung überhaupt nicht leisten.”
+Kloebner: “Herr Müller-Lüdenscheidt!”
+Müller-Lüdenscheid: “Herr Doktor Kloebner! Ich lasse jetzt das Wasser ein, wenn Sie mich höflich darum bitten.”
+Kloebner: “Bitte.”
+Müller-Lüdenscheid: “Höflich.”
+Kloebner: “Höflich.”
+Müller-Lüdenscheid: “Na, also.”
+Müller-Lüdenscheid: “Was machen Sie da?”
+Kloebner: “Ich lasse etwas kühleres Wasser ein.”
+Müller-Lüdenscheid: “Das ist sehr aufmerksam, aber ich hätte doch gerne noch eine Kleinigkeit von dem heißen.”
+Kloebner: “Wenn ich jetzt einen Schuss von dem kalten dazunehmen könnte.”
+Müller-Lüdenscheid: “Das war eine Idee zu viel.”
+Kloebner: “Ach.”
+Müller-Lüdenscheid: “Ich glaube, noch ein paar Tropfen heißes und man könnte sich einigen. Geht es so?”
+Kloebner: “Oh, ja. Vielen Dank.”
+Müller-Lüdenscheid: “Oh, bitte sehr. Die Ente bleibt draußen.”
+Kloebner: “Herr Müller-Lüdenscheidt!”
+Müller-Lüdenscheid: “Die Ente bleibt draußen!”
+Kloebner: “Herr Müller-Lüdenscheidt, ich bade immer mit dieser Ente.”
+Müller-Lüdenscheid: “Nicht mit mir.”
+Kloebner: “Ich kenne Sie ja erst seit heute.”
+Müller-Lüdenscheid: “Wenn Sie die Ente hereinlassen, lasse ich das Wasser heraus.”
+Kloebner: “Das sind wohl die Erpressermethoden Ihrer Gangsterfirma.”
+Müller-Lüdenscheid: “Herr Doktor Kloebner!”
+Kloebner: “Herr Müller-Lüdenscheidt!”
+Müller-Lüdenscheid: “Akademiker wollen Sie sein? Ha.”
+Kloebner: “Also, was ist jetzt?”
+Müller-Lüdenscheid: “Ich lasse das Wasser heraus, wenn Sie die Ente hereinlassen.”
+Kloebner: “Ich nehme meine Ente herein.”
+Müller-Lüdenscheid: “Wo ist der Stöpsel?”
+Kloebner: “Sie sitzen drauf.” Wissen Sie eigentlich, dass viele Menschen überhaupt kein Bad besitzen?”
+Müller-Lüdenscheid: “Ach, Sozi sind Sie wohl auch noch?”
+Kloebner: “Herr Müller-Lüdenscheidt!”
+Müller-Lüdenscheid: “Herr Doktor Kloebner! Also lassen Sie die Ente in Gottes Namen herein.”
+Kloebner: “Nein, mit Ihnen teilt meine Ente das Wasser nicht.”
+Müller-Lüdenscheid: “Sie lassen sofort die Ente zu Wasser!”
+Kloebner: “Ich denke nicht daran.”
+Müller-Lüdenscheid: “Dann tauche ich jetzt so lange, bis Sie die Ente zu Wasser lassen.”
+Kloebner: “Bitte sehr…”
+Müller-Lüdenscheid: “Es ist mir ernst! Ich zähle bis drei. Eins, zwei, drei… Hmmmmm…..”
+Kloebner: “Da sind Sie ja schon wieder.”
+Müller-Lüdenscheid: “Jawohl.”
+Kloebner: “Passen Sie mal auf!”
+Müller-Lüdenscheid: “Herr Doktor Kloebner? Hören Sie? Wenn Sie nicht sofort auftauchen, verlasse ich die Wanne. Die Luft anhalten kann jeder.”
+Kloebner: “Was sagen Sie nun?”
+Müller-Lüdenscheid: “Sie langweilen mich.”
+Kloebner: “Aber ich kann länger als Sie.”
+Müller-Lüdenscheid: “Es gibt Wichtigeres im Leben.”
+Kloebner: “Was denn?”
+Müller-Lüdenscheid: “Ehrlichkeit, Toleranz…”
+Kloebner: “Ja…”
+Müller-Lüdenscheid: “Mut, Anstand…”
+Kloebner: “Ja… Ja…”
+Müller-Lüdenscheid: “Hilfsbereitschaft…”
+Kloebner: “Ja…”
+Müller-Lüdenscheid: “Tüchtigkeit, Zähigkeit…”
+Kloebner: “Ja…”
+Müller-Lüdenscheid: “Sauberkeit…”
+Kloebner: “Aber ich kann länger als Sie.”
+Müller-Lüdenscheid: “Es kommt auf den Charakter an.”
+Kloebner: “Aber ich kann länger als Sie.”
+Müller-Lüdenscheid: “Und das glaube ich ihnen nicht.”
+Kloebner: “Dann tauchen wir jetzt gleichzeitig.”
+Müller-Lüdenscheid: “Wie Sie wünschen.”
+Kloebner: “Dann werden wir’s ja sehen.”
+Müller-Lüdenscheid: “Das werden wir sehen.”
+Kloebner: “Ich habe schon ganz verschrumpelte Finger.”
+Müller-Lüdenscheid: “Ich auch.”
+Kloebner: “Also. Eins, zwei…”
+Müller-Lüdenscheid: “Drei… Hmmmmm….”
+Stimme: “Ist hier jemand? Hallo? Entschuldigen Sie, ist das hier Zimmer 107?”

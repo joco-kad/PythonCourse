@@ -1,0 +1,22 @@
+= Übung 15
+
+== Lösungen
+
+[source,python]
+----
+>>> z='toll'
+>>> f=lambda x, y: f'{x} {y} {z}!'
+>>> f('Python', 'ist')
+'xyabc'
+----
+
+[source,python]
+----
+>>> l=lambda x, y, f: len(f(x, y)) < 15
+>>> z='toll'
+>>> l('Python', 'ist', f)
+False
+>>> z='ok'
+>>> l('Python', 'ist', f)
+True
+----

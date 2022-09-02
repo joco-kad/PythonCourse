@@ -1,0 +1,11 @@
+textFile = sc.textFile("README.md")
+textFile.count()
+textFile.first() 
+textFile.collect()
+linesWithSpark = textFile.filter(lambda line: "Spark" in line)
+linesWithSpark.collect()
+textFile.filter(lambda line: "Spark" in line).count()
+
+textFile.map(lambda line: len(line.split())).reduce(lambda a, b: a if (a > b) else b)
+wordCounts = textFile.flatMap(lambda line: line.split()).map(lambda word: (word, 1)).reduceByKey(lambda a, b: a+b)
+wordCounts.collect()

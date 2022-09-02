@@ -1,0 +1,50 @@
+customers:
+  - name: Peter Müller
+    city: Dortmund
+    orders:
+      - id: 1
+  - name: Max Mustermann
+    city: Berlin
+    orders:
+      - id: 2
+  - name: Hans Maier
+    city: Dortmund
+    orders:
+      - id: 3
+      - id: 4
+products:
+  - name: Corona Pils Royal
+    price: 1.42
+    id: 1
+  - name: Fusspilzcreme
+    price: 8.99
+    id: 2
+  - name: Kobolds Biographie
+    price: 0.10
+    id: 3
+  - name: 10 Brötchen
+    price: 42.23
+    id: 4
+  - name: Ol' Joe's Haftcreme
+    price: 1.24
+    id: 5
+orders:
+  - id: 1
+    products:
+    - id: 1
+    - id: 3
+    - id: 4
+  - id: 2
+    products:
+    - id: 2
+    - id: 5
+  - id: 3
+    products:
+    - id: 2
+    - id: 3
+    - id: 5
+  - id: 4
+    products:
+    - id: 1
+    - id: 2
+
